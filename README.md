@@ -1,9 +1,9 @@
 # oss-audit-sanasomna
 # Open Source Audit: Python (The Linux Glue)
-**Name:** [Your Name]  
-**Roll Number:** [Your Roll Number]  
-**Software:** Python 3.x  
-**License:** PSF (Python Software Foundation License)
+Name: Sana Somna  
+Roll Number: 24BOE10009  
+Software: Python 3.x  
+License: PSF (Python Software Foundation License)
 
 ## Project Overview
 This repository contains a structured audit of the Python programming language, focusing on its role as an essential open-source component in the Linux ecosystem.
